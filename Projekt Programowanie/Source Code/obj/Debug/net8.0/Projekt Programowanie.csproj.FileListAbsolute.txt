@@ -1,0 +1,14 @@
+C:\Users\redvers\Desktop\Projekt Programowanie\bin\Debug\net8.0\Projekt Programowanie.exe
+C:\Users\redvers\Desktop\Projekt Programowanie\bin\Debug\net8.0\Projekt Programowanie.deps.json
+C:\Users\redvers\Desktop\Projekt Programowanie\bin\Debug\net8.0\Projekt Programowanie.runtimeconfig.json
+C:\Users\redvers\Desktop\Projekt Programowanie\bin\Debug\net8.0\Projekt Programowanie.dll
+C:\Users\redvers\Desktop\Projekt Programowanie\bin\Debug\net8.0\Projekt Programowanie.pdb
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.AssemblyInfoInputs.cache
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.AssemblyInfo.cs
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.csproj.CoreCompileInputs.cache
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.dll
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\refint\Projekt Programowanie.dll
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.pdb
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\Projekt Programowanie.genruntimeconfig.cache
+C:\Users\redvers\Desktop\Projekt Programowanie\obj\Debug\net8.0\ref\Projekt Programowanie.dll
